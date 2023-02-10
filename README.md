@@ -40,5 +40,3 @@ Hi, I'm Bruno Junqueira, a FullStack Developer from Brazil ![Brazil](https://raw
   <li>🎓 Graduated in Civil Engineering(UFRJ-Universidade Federal do Rio de Janeiro)</li>
   <li>:soccer: I'm passionate about sports!</li>
 </ul>
-
-![Snake animation](https://github.com/Brunopjunq/Brunopjunq/blob/output/github-contribution-grid-snake.svg)
